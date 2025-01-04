@@ -36,6 +36,12 @@ Restricciones de los dominios en SQL. Cláusulas select, from y where. La operac
 renombramiento. Variables tupla. Operaciones sobre Cadenas. Operaciones sobre conjuntos.
 Funciones de agregación. Manejo de valores nulos. Subconsultas anidadas. Vistas. Modificación
 de la base de datos. Reunión de relaciones.
+### Integridad y Seguridad
+Integridad referencial. Integridad referencial en SQL. Aserciones. Aserciones en SQL.
+Disparadores. Disparadores en SQL. Seguridad y autorización: medidas de seguridad en varios
+niveles, autorizaciones, concesión de privilegios, papeles. Autorización en SQL: privilegios en
+SQL, papeles, el privilegio de conceder privilegios.
+
 
 
 Ver repositorio con la parte de MondgoDB aquí: [Repositorio NoSQL](https://github.com/Conyweasley/NoSQL)
