@@ -28,5 +28,12 @@ motor que soporta SQL y MongoDB.
 * Poder escribir prompts para robots de chat.
 * Poder usar sistemas de retorno de la información y entender su funcionamiento.
 
+## SQL
+Lenguaje de definición de datos: tipos de dominios en SQL, definición de esquemas en SQL.
+Restricciones de los dominios en SQL. Cláusulas select, from y where. La operación de
+renombramiento. Variables tupla. Operaciones sobre Cadenas. Operaciones sobre conjuntos.
+Funciones de agregación. Manejo de valores nulos. Subconsultas anidadas. Vistas. Modificación
+de la base de datos. Reunión de relaciones.
+
 
 Ver repositorio con la parte de MondgoDB aquí: [Repositorio NoSQL](https://github.com/Conyweasley/NoSQL)
