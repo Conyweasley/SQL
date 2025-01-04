@@ -1,3 +1,5 @@
+Programa de la materia: https://www.famaf.unc.edu.ar/documents/4969/Bases_de_Datos_LCC.pdf
+
 ## Fundamentación y Objetivos de la materia
 En el mundo moderno las empresas y las organizaciones públicas necesitan manejar información
 para poder llevar a cabo sus actividades. Para poder, consultar, definir, gestionar esa información
